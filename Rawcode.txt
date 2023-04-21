@@ -35,7 +35,9 @@
                         </div>
                     </div>
                     <div class="column">
-                        
+                        <div>
+                            <img src="images/sunglass.jpg" class="column_image" alt="Image Not Found">
+                        </div>
                         <div class="column_content">
                             <h2>The Glasses</h2>
                             <p>Typography, Illustration</p>
@@ -55,7 +57,11 @@
                     <div class="column">
                         <div>
                             <img src="images/hand.jpg" class="column_image" alt="Image Not Found">
-                       
+                        </div>
+                        <div class="column_content">
+                            <h2>The Leaf</h2>
+                            <p>Icon, Print Design</p>
+                        </div>
                     </div>
                     <div class="column">
                         <div>
