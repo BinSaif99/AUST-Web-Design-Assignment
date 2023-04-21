@@ -20,7 +20,7 @@ If you'd like to contribute to my any **Repositories**, please **fork** the repo
 
 AUST GALAXY DASH is released under the [MIT License](https://choosealicense.com/licenses/mit/). Feel free to use and modify the code as you see fit.
 
-[![MIT License](https://img.shields.io/badge/License-MIT-purple.svg)](https://choosealicense.com/licenses/mit/)
+[![MIT License](https://img.shields.io/badge/License-MIT-purple.svg)](https://github.com/BinSaif99/AUST-Web-Design-Assignment/blob/main/LICENSE)
 
 ## Find Me
 
