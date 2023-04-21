@@ -1,0 +1,75 @@
+
+<!DOCTYPE html>
+<html>
+<head></head>
+<body>
+<header>
+        <link type="text/css" rel="stylesheet" href="assignment.css">
+    </header>
+    
+        <div class="main_body">
+            <div class="main_heading">
+                <h1> ASSIGNMENT 1</h1>
+				<h2>Alif Bin Saif</h2>
+				<h3>20200104072</h3>
+				
+            </div>
+            <div class="columns">
+                <div class="flex-container">
+                    <div class="column">
+                        <div>
+                            <img src="images/heart.jpg" class="column_image" alt="Image Not Found">
+                        </div>
+                        <div class="column_content">
+                            <h2>The Mind</h2>
+                            <p>Photoshop, Print Design</p>
+                        </div>
+                    </div>
+                    <div class="column">
+                        <div>
+                            <img src="images/police.jpg" class="column_image" alt="Image Not Found">
+                        </div>
+                        <div class="column_content">
+                            <h2>The Police</h2>
+                            <p>Illustrator, Icons</p>
+                        </div>
+                    </div>
+                    <div class="column">
+                        
+                        <div class="column_content">
+                            <h2>The Glasses</h2>
+                            <p>Typography, Illustration</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="flex-container">
+                    <div class="column">
+                        <div>
+                            <img src="images/beard.jpg" class="column_image" alt="Image Not Found">
+                        </div>
+                        <div class="column_content">
+                            <h2>The Mustache</h2>
+                            <p>Photoshop, Icons</p>
+                        </div>
+                    </div>
+                    <div class="column">
+                        <div>
+                            <img src="images/hand.jpg" class="column_image" alt="Image Not Found">
+                       
+                    </div>
+                    <div class="column">
+                        <div>
+                            <img src="images/security.jpg" class="column_image" alt="Image Not Found">
+                        </div>
+                        <div class="column_content">
+                            <h2>The Shield</h2>
+                            <p>Illustration, Icons</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+
+
+</body></html>
